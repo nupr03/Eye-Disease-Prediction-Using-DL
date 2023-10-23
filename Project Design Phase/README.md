@@ -20,7 +20,7 @@ In this phase, we focus on planning and designing the project. This README will 
 - A Data Flow Diagram (DFD) is a conventional method for visually depicting how information moves within a system. This offers a transparent DFD, visually illustrating how data enters and exits the system, any transformations it undergoes, and where it's stored. This visual representation helps to understand how data circulates and is processed within the system.
 
 ## Next Step
-- Following the Project Design Phase, the project will transition to the Project Planning Phase. Here, the focus will be on determining the Technology Stack and elaborating the comprehensive project plan, ensuring a well-structured approach towards development and implementation.
+- Following the Project Design Phase, the project will transition to the [Project Planning Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/Project%20Planning%20Phase). Here, the focus will be on determining the Technology Stack and elaborating the comprehensive project plan, ensuring a well-structured approach towards development and implementation.
 
 
 
