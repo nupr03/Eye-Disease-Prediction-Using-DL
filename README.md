@@ -1,4 +1,4 @@
-# Eye Disease Prediction Using Deep Learning
+# Deep Learning Model For Eye Disease Prediction
 
 ## Overview
 This project aims to classify various types of eye diseases based on images. These diseases are categorized into four main groups: Normal, Cataract, Diabetic Retinopathy, and Glaucoma. We employ deep learning techniques, including transfer learning, to build high-performance classifiers for disease detection using image data.
