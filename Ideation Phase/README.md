@@ -22,5 +22,5 @@ The Brainstorming Map template served as a visual representation of the ideas an
 
 
 ## Next Steps
-- Based on the insights gained from the Empathy Map and the ideas generated in the Brainstorming Map, we will proceed to the Project Design Phase. This will involve defining the project's architecture and feature set.
+- Based on the insights gained from the Empathy Map and the ideas generated in the Brainstorming Map, we will proceed to the [Project Design Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/Project%20Design%20Phase). This will involve defining the project's architecture and feature set.
 
