@@ -1,6 +1,6 @@
 # [Project Planning Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/3.%20Project%20Planning%20Phase)
 
-In the Project Planning Phase, we lay the foundation for a successful execution of our deep learning model for eye disease prediction project. This phase involves the detailed planning and organization of the project.
+In the Project Planning Phase, we lay the foundation for a successful execution of our deep learning model for the Eye disease prediction project. This phase involves the detailed planning and organization of the project.
 
 ## Project Planning Phase Objectives
 1. Define and document the project's technology stack and requirements.
@@ -15,8 +15,8 @@ In the Project Planning Phase, we lay the foundation for a successful execution 
 
 ### 2. [Project Planning Details](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/blob/main/3.%20Project%20Planning%20Phase/Project%20Planning%20Details.pdf)
 
-- In this phase involves meticulous sprint planning, resource allocation, and risk assessment. User stories are crafted to outline system functionalities, and story points are assigned to gauge task complexity. A well-defined project timeline, documentation requirements, and budget estimates are crucial components, alongside addressing security and compliance measures. This detailed planning paves the way for an organized and successful project execution.
-- 
+- In this phase involves meticulous sprint planning, resource allocation, and risk assessment. User stories are crafted to outline system functionalities and story points are assigned to gauge task complexity. A well-defined project timeline, documentation requirements, and budget estimates are crucial components, alongside addressing security and compliance measures. This detailed planning paves the way for an organized and successful project execution.
+  
 ## Next Step
 - Following the Project Planning Phase, the project will advance to the [Project Development Phase](), where we'll focus on implementing functional features and ensuring code quality and efficiency.
 
