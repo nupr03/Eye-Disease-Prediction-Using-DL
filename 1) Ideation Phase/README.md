@@ -1,4 +1,4 @@
-# [Ideation Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/Ideation%20Phase)
+# [Ideation Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/1)%20Ideation%20Phase)
 
 Welcome to the Ideation Phase of our "Eye Disease Prediction using Deep Learning" project. In this phase, we have focused on gaining insights into our project's goals, understanding our target audience, and generating creative ideas. Here, we'll provide information about the key activities and materials used during this phase.
 
