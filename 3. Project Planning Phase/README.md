@@ -18,5 +18,5 @@ In the Project Planning Phase, we lay the foundation for a successful execution 
 - In this phase involves meticulous sprint planning, resource allocation, and risk assessment. User stories are crafted to outline system functionalities and story points are assigned to gauge task complexity. A well-defined project timeline, documentation requirements, and budget estimates are crucial components, alongside addressing security and compliance measures. This detailed planning paves the way for an organized and successful project execution.
   
 ## Next Step
-- Following the Project Planning Phase, the project will advance to the [Project Development Phase](), where we'll focus on implementing functional features and ensuring code quality and efficiency.
+- Following the Project Planning Phase, the project will advance to the [Project Development Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/4%20.%20Project%20Development%20Phase), where we'll focus on implementing functional features and ensuring code quality and efficiency.
 
