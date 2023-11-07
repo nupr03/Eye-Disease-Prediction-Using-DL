@@ -14,9 +14,13 @@ Welcome to the Ideation Phase of our "Eye Disease Prediction using Deep Learning
 It is a valuable tool for understanding our users. It helped us gain insights into their thoughts, feelings, and needs.
 We used a mural template for creating the Empathy Map. You can access the Map using the following link: [Empathy Map Mural Link](https://app.mural.co/t/empathymapforeyediseasepredi0797/m/empathymapforeyediseasepredi0797/1697527016984/da2a1a7da096b728794f4f015dc3ff3619936af1?sender=ube2471ea0bc3c5e994d27926).
 
+Empathy map Drive link : https://drive.google.com/file/d/1PM5pPWHAaRoDRWsdyq1GYMGDTNbHW79W/view?usp=sharing
+
 ## 2. [Brainstorming Map](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/blob/main/1.%20Ideation%20Phase/Brainstorming%20Map.pdf)
 Brainstorming is a collaborative creative process to generate ideas.
 We used a mural template to capture our brainstorming session's outcomes. You can access the template by following this link: [Brainstorming Map Mural Link](https://app.mural.co/t/vit8192/m/vit8192/1697613854839/ba5b9c0fd54ee3baec6747978c849528e99ea03e?sender=ube2471ea0bc3c5e994d27926).
+
+Brainstormimg Map Drive link : https://drive.google.com/file/d/1eadgUB2hpKMUZLLwies5_nMUbTp4Cph9/view?usp=sharing
 
 The Brainstorming Map template served as a visual representation of the ideas and suggestions generated during our brainstorming session. It captures various concepts, features, and potential solutions for our project.
 
