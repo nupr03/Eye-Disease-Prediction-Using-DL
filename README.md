@@ -1,5 +1,5 @@
 # Deep Learning Model For Eye Disease Prediction
-
+ - Project Demo Video Drive Link: https://drive.google.com/file/d/1o93YlGAEN2wwNMTr4zxZ5qUWjRfe84u8/view?usp=sharing
 ## Overview
 This project aims to classify various types of eye diseases based on images. These diseases are categorized into four main groups: Normal, Cataract, Diabetic Retinopathy, and Glaucoma. We employ deep learning techniques, including transfer learning, to build high-performance classifiers for disease detection using image data.
 
@@ -8,7 +8,7 @@ Our primary goal is to develop a robust and accurate system for classifying eye 
 
 - Create a deep learning model that can accurately classify eye images into four categories: Normal, Cataract, Diabetic Retinopathy, and Glaucoma.
 - Leverage transfer learning to take advantage of pre-trained models for improved classification performance.
-
+## Project Phases
 ## Phase 1: [Ideation Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/1.%20Ideation%20Phase)
 
 ### Empathy Map
@@ -40,3 +40,29 @@ Our primary goal is to develop a robust and accurate system for classifying eye 
 ### Project Planning Details
 
 - During this phase, the project team will focus on sprint planning, dividing the project into  sprints, and defining specific user stories to create a structured, incremental development process while assigning story points to gauge task complexity accurately.
+
+
+## Phase 4: [Development Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/4%20.%20Project%20Development%20Phase)
+
+### Dataset
+ - Within this section, you'll find images depicting 'Normal,' 'Cataract,' 'Diabetic Retinopathy,' and 'Glaucoma.' These visuals play a pivotal role in our project's classification, analysis, and visualization, thoughtfully categorized by disease type for convenient access during development, testing, and related tasks.
+
+### Eye Disease Prediction Jupyter Notebook
+ - The Jupyter Notebook contains code and instructions for deep learning-based eye disease prediction. It covers the identification of normal, glaucoma, diabetic retinopathy, and Cataract using image data. The notebook includes code, explanations, and visual tools to guide users in building and training the prediction models.
+
+### Flask Source Code
+ - In this section, you'll find the Flask source code for the "Eye Disease Prediction Project." It includes route definitions, view functions, HTML templates, and Flask configurations. This code is essential for understanding how Flask powers the project's web application for predicting eye diseases.
+
+### Project Manual
+ - The project manual is a comprehensive guide outlining project objectives, methodologies, roles, and best practices specific to our eye disease prediction project. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
+
+## Phase 5 :[Performance & Final Submission Phase](https://github.com/smartinternz02/SI-GuidedProject-600240-1697595942/tree/main/5.%20Performance%20%26%20Final%20Submission%20Phase):
+
+### Solution Performance
+ - The Solution Performance document includes a summary of the eye disease prediction model and its accuracy, encompassing both training and validation results.
+
+### Project Documentation
+ - This comprehensive set of records includes details regarding data collection, deep learning model development, evaluation metrics, code, user interfaces, and deployment procedures specific to our eye disease prediction project. It serves as a vital reference for project stakeholders, offering support for troubleshooting, future maintenance, and the transfer of knowledge.
+
+
+Your dedication fuels the vision of our eye disease prediction project. Together, we're not just predicting diseases; we're shaping a clearer, healthier future
